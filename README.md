@@ -23,7 +23,7 @@ To set up the project locally on your machine, follow these steps:
    Clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/AverageGithubUser08/FoodChooser.git
 
 2. **Open in Android Studio**
 3. **Add foods to food.txt**
