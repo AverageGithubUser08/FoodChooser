@@ -1,5 +1,7 @@
 # FoodChooser App
 
+Made for **Hack Club highseas** 2024-2025
+
 ## Description
 The **FoodChooser App** is a simple Android application built using **Jetpack Compose** that helps users decide what to eat by selecting a random food item from a predefined list. 
 The app presents a button that, when clicked, displays a randomly selected food item.
